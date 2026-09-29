@@ -18,6 +18,7 @@
 - 🎨 自定义二维码样式和 Logo
 - 💻 管理后台可随时更新
 - 🔐 密码保护
+- 
 
 <a href="https://qrdemo.2020818.xyz" target="_blank">Demo 地址</a>(密码: `demo`)
 
